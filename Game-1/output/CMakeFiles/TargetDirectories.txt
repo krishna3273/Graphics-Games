@@ -1,0 +1,3 @@
+/home/krishna-swathi/Downloads/graphics-boilerplate-master/build/CMakeFiles/edit_cache.dir
+/home/krishna-swathi/Downloads/graphics-boilerplate-master/build/CMakeFiles/rebuild_cache.dir
+/home/krishna-swathi/Downloads/graphics-boilerplate-master/build/CMakeFiles/graphics_asgn1.dir
